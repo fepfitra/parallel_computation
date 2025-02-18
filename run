@@ -1,2 +1,5 @@
 gcc $1 -fopenmp
-./a.out
+
+time ./a.out
+time ./a.out
+time ./a.out
